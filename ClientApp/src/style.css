@@ -1,0 +1,10 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    padding: 20px;
+    background-color: blue;
+    border: solid black 2px;
+}

@@ -1,0 +1,6 @@
+/ClientApp/node_modules
+/ClientApp/package-lock.json
+/bin
+/obj
+/wwwroot/dist
+/.vscode
